@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Sofia/OneDrive/Dokumente/GitHub/SpaceInvaders/Space_Invaders/Content/LivelloGioco.umap",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/LivelloGioco.umap",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/SIGameMode.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/SIPawn.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Input/Laterale.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Input/Fuoco.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Input/ComandiGioco.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/Proiettile.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/Alieno.uasset"
+			]
+		}
+	]
+}
