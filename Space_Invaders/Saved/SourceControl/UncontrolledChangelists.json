@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Sofia/OneDrive/Dokumente/GitHub/SpaceInvaders/Space_Invaders/Content/LivelloGioco.umap",
+				"C:/Users/Sofia/OneDrive/Dokumente/GitHub/SpaceInvaders/Space_Invaders/Content/Blueprints/Proiettile.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/GitHub/SpaceInvaders/Space_Invaders/Content/Blueprints/Proiettile_Alieno.uasset",
+				"C:/Users/Sofia/OneDrive/Dokumente/GitHub/SpaceInvaders/Space_Invaders/Content/Blueprints/SIGameMode.uasset",
 				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/LivelloGioco.umap",
 				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/SIGameMode.uasset",
 				"C:/Users/Sofia/OneDrive/Dokumente/Unreal Projects/Space_Invaders/Content/Blueprints/SIPawn.uasset",
